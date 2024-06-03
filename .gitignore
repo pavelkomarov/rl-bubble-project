@@ -1,0 +1,5 @@
+inverse/_output*
+inverse/plots*
+*.npy
+pyclaw.log
+MNIST
